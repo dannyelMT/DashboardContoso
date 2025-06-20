@@ -26,4 +26,8 @@ Este repositório contém o projeto de um **Dashboard de Vendas** desenvolvido n
 O objetivo deste projeto é demonstrar boas práticas na criação de dashboards interativos, com foco em visualização de vendas, análise por região e desempenho de produtos.
 
 ---
+## Links Úteis
+
+- 🔗 [Acesse o Dashboard Online no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMzU1YWE5N2QtZjRjYy00MWFmLWIxM2MtZDFjMDVlZjI4MWE2IiwidCI6IjY2MGM4YjI3LTMyYWEtNDA4ZC1hZGVhLTc2MmRiYWM3MTJmZiJ9)
+- 📝 [Leia o artigo completo no Medium explicando o processo de construção](https://medium.com/@dannyel.r23/painel-estrat%C3%A9gico-de-vendas-por-produto-e-regi%C3%A3o-1d5abdcbe3ed)
 
